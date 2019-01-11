@@ -16,4 +16,4 @@
 
 # SCREENSHOTS
 
-![Alt text](/relative/path/to/p3-home.JPG? "Optional Title")
+![ScreenShot](https://raw.github.com/akshaybahuguna181/WebMashup-YelpRestaurants-GoogleMaps/master/./p3-home.JPG)
