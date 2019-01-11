@@ -16,4 +16,4 @@
 
 # SCREENSHOTS
 
-![Alt text](/relative/path/to/p3-home.JPG?raw=true "Optional Title")
+![Alt text](/relative/path/to/p3-home.JPG? "Optional Title")
