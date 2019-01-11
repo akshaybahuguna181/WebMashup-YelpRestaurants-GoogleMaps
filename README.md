@@ -16,4 +16,11 @@
 
 # SCREENSHOTS
 
+Home Page:
+
 ![ScreenShot](https://raw.github.com/akshaybahuguna181/WebMashup-YelpRestaurants-GoogleMaps/master/./p3-home.JPG)
+
+
+After you search:
+
+![ScreenShot](https://raw.github.com/akshaybahuguna181/WebMashup-YelpRestaurants-GoogleMaps/master/./p3-2.JPG)
