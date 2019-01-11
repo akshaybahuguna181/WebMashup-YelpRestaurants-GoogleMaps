@@ -13,3 +13,7 @@
 # Instructions to run:
 1. Place all three files together in a folder inside directory of XAMPP server htdocs folder.
 2. Start the server and browse the yelp.html file to start the application.
+
+# SCREENSHOTS
+
+![Alt text](/relative/path/to/p3-home.JPG?raw=true "Optional Title")
